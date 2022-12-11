@@ -1,6 +1,6 @@
 object DeckOfCards Example extends App {
 
-  //clumsy enumeration definition
+  //clumsy enumeration definition  
 
   sealed abstract class Suite
   case object Spade extends Suite
